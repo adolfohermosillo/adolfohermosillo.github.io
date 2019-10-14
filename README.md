@@ -18,7 +18,10 @@ My focal areas include:
 2. Hermosillo, J. A.(In prep.) "Assessing and Debiasing Stereotypes in Adjectives with (Un)Marked Grammatical Gender." in _Proceedings of the 58th Annual Meeting of the Association of Computational Linguistics_. 
 3. Hermosillo, J. A., Tjuatjaet, J., Wu, T., & Avila, A. (In prep.) "SemEval-2020 Task 9: Sentiment Analysis for Code-Mixed Social Media Text." in _SemEval-2020_.
 
-## [CV](hermosillo_cv_).pdf)
+## [CV](hermosillo_cv_.pdf)
+
+# Personal Interests
+I am a dance instructor and member of the performance team for Texas Latin Dance, a student org at the University of Texas at Austin. I also enjoy trying international foods and exploring local cuisines.  
 
 ## Contact me!
 [Facebook](https://www.facebook.com/jesus.hermosillorodriguez) [Instagram](http://instagram.com/hermosillo_17)
