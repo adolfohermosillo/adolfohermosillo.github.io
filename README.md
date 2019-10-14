@@ -20,7 +20,7 @@ My focal areas include:
 
 ## [CV](hermosillo_cv_.pdf)
 
-# Personal Interests
+## Personal Interests
 I am a dance instructor and member of the performance team for Texas Latin Dance, a student org at the University of Texas at Austin. I also enjoy trying international foods and exploring local cuisines.  
 
 ## Contact me!
