@@ -11,7 +11,14 @@ My focal areas include:
 - Regional Variation
 - Contact Linguistics
 - Langage and Society
+- Low-resource languages 
 - Accessibilty and Biases
+
+## Selected Talks
+1. "The Role of Gender in Human Language Technologies: from Google Translate to Intelligent Agents." Mellon Mays Southeast Regional Undergraduate Conference, Rice University, 2019.
+2. "Analyzing informal political discourse: Texas #SB4." Race, Ethnicity and Place IXth Conference: Engaged Scholarship, 2018.
+3. "Language and dialect contact among Hispanics in Houston, Texas: Lexical leveling in the Near Northside." Hispanic Linguistics Symposium, 2018.
+4. "Challenges in Working with Low-resource Language Data: Examples from a Parallel Text." Code-Switching in Indigenous Languages Colloquium, University of Texas, 2018.
 
 ## Publications
 1. Hermosillo, J. A. (March, 2019). “Language and dialect contact among Hispanics in Houston, Texas: A Lexical Leveling.” _Mellon Mays Undergraduate Fellowship Research Journal_. 25-30. 
@@ -20,8 +27,6 @@ My focal areas include:
 
 ## [CV](hermosillo_cv_.pdf)
 
-## Personal Interests
-I am a dance instructor and member of the performance team for Texas Latin Dance, a student org at the University of Texas at Austin. I also enjoy trying international foods and exploring local cuisines.  
 
 ## Contact me!
 [Facebook](https://www.facebook.com/jesus.hermosillorodriguez) [Instagram](http://instagram.com/hermosillo_17)
