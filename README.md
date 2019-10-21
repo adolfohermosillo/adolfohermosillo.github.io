@@ -27,6 +27,10 @@ My focal areas include:
 
 ## [CV](hermosillo_cv_.pdf)
 
+## Media
+1.  [Department of Spanish and Portuguese at UT named me undergraduate spotlight](https://liberalarts.utexas.edu/spanish/news/undergraduate-spotlight-jesus-adolfo-hermosillo) 
+2. [High School Junior me interviewed by Univision Houston][https://www.univision.com/local/houston-kxln/noticias/educacion/jesus-hermosillo-ejemplo-de-perseverancia-video]
+
 
 ## Contact me!
 [Facebook](https://www.facebook.com/jesus.hermosillorodriguez) [Instagram](http://instagram.com/hermosillo_17)
