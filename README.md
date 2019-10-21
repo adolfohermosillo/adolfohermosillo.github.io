@@ -4,7 +4,7 @@
 I am a fourth year undergraduate student at the University of Texas at Austin majoring in Linguistics with a concentration in computational linguistics. I am also pursuing a minor in Iberian and Latin American Literatures, Cultures, and Linguistics in addition to two certificates in elements of computing and scientific computation and data science. 
 
 ## Research 
-I am boradly interested in the intersection of computational lexical semantics and social science. My research intends to integrate experimental psycholinguistics and sociolinguistics using computational approaches. My work is primarily done in Spanish and English. I intend to bring critical perspectives on accessibility and biases to natural language processing and human language technology.  
+I am boradly interested in the intersection of computational lexical semantics and social science. My research looks at the commonalities and differences betweeen humans and machines by adpating psycholinguistics and sociolinguistics theories to evaluate performance on natural language processing systems and further build roubst, equitable and less-biased. My work is primarily done in Spanish and English. 
 
 My focal areas include: 
 - Lexical semantics
