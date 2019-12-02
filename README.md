@@ -28,6 +28,10 @@ My focal areas include:
 
 ## [CV](hermosillo_cv_.pdf)
 
+
+## [sample](Writing Sample.pdf)
+
+
 ## Media
 1.  [I was named undergraduate spotlight in the Department of Spanish and Portuguese!](https://liberalarts.utexas.edu/spanish/news/undergraduate-spotlight-jesus-adolfo-hermosillo) 
 2. [High School Senior me interviewed by Univision Houston](https://www.univision.com/local/houston-kxln/noticias/educacion/jesus-hermosillo-ejemplo-de-perseverancia-video)
