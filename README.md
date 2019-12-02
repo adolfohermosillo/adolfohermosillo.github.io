@@ -29,8 +29,6 @@ My focal areas include:
 ## [CV](hermosillo_cv_.pdf)
 
 
-## [Sample](Writing_Sample.pdf)
-
 
 ## Media
 1.  [I was named undergraduate spotlight in the Department of Spanish and Portuguese!](https://liberalarts.utexas.edu/spanish/news/undergraduate-spotlight-jesus-adolfo-hermosillo) 
