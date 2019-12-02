@@ -29,7 +29,7 @@ My focal areas include:
 ## [CV](hermosillo_cv_.pdf)
 
 
-## [sample](Writing Sample.pdf)
+## [Sample](Writing Sample.pdf)
 
 
 ## Media
