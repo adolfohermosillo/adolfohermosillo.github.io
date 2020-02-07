@@ -1,18 +1,17 @@
 
 # J. Adolfo Hermosillo 
 ## About me
-I am a fourth year undergraduate student at the University of Texas at Austin majoring in Linguistics with a concentration in computational linguistics and certificates in elements of computing and scientific computation & data science. I am also a research assistant in [the Bilingual Annotation Tasks Force (BATs)](https://sites.utexas.edu/bats/) research grop. 
+I am a fourth year undergraduate student at the University of Texas at Austin majoring in Linguistics with a concentration in computational linguistics and completing a certificate in scientific computation & data science. I am also a research assistant in [the Bilingual Annotation Tasks Force (BATs)](https://sites.utexas.edu/bats/) research grop. 
 
 ## Research 
-I am broadly interested in the intersection of computational lexical semantics and social science. My research looks at the commonalities and differences between humans and machines by adapting psycholinguistics and sociolinguistics theories to evaluate performance on natural language processing systems and further build robust, equitable and less-biased. My work is primarily done in Spanish and English.  
-
 My focal areas include: 
 - Lexical semantics
 - Regional Variation
 - Contact Linguistics
 - Language and Society
 - Low-resource languages 
-- Accessibility and Biases
+- Social Biases in NLP 
+- Ethics and Accessibility
 
 
 ## Selected Talks
