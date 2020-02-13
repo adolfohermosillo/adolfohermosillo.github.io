@@ -22,12 +22,6 @@ My focal areas include:
 
 ## Publications
 1. Hermosillo, J. A. (March, 2019). “Language and dialect contact among Hispanics in Houston, Texas: A Lexical Leveling.” _Mellon Mays Undergraduate Fellowship Research Journal_. 25-30. 
-2. Hermosillo, J. A.(In prep.) "Assessing and Debiasing Stereotypes in Adjectives with (Un)Marked Grammatical Gender." in _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics_. 
-3. Hermosillo, J. A., Tjuatjaet, L., Wu, T., & Avila, A. (In prep.) "Sentiment Analysis in Code-Mixed Social Media Text using Contextualized Language Models." in _SemEval-2020_.
-
-## [CV](hermosillo_cv_.pdf)
-
-
 
 ## Media
 1.  [I was named undergraduate spotlight in the Department of Spanish and Portuguese!](https://liberalarts.utexas.edu/spanish/news/undergraduate-spotlight-jesus-adolfo-hermosillo) 
