@@ -1,7 +1,11 @@
 
 # J. Adolfo Hermosillo 
 ## About me
-I am a fourth year undergraduate student at the University of Texas at Austin majoring in Linguistics with a concentration in computational linguistics and completing a certificate in scientific computation & data science. I am also a research assistant in [the Bilingual Annotation Tasks Force (BATs)](https://sites.utexas.edu/bats/) research grop. 
+I am a fourth year undergraduate student at the University of Texas at Austin (soon at Stanford Linguistics). I am majoring in Linguistics with a concentration in computational linguistics and completing a certificate in scientific computation & data science and another in elements of computing. I am also a research assistant in [the Bilingual Annotation Tasks Force (BATs)](https://sites.utexas.edu/bats/) research grop. 
+
+## Current Projects 
+- Nahuatl-to-Spanish Neural Machine Translation
+- Detecting Gender Biases in Spanish Word Embeddings
 
 ## Research 
 My focal areas include: 
@@ -10,6 +14,7 @@ My focal areas include:
 - Contact Linguistics
 - Language and Society
 - Low-resource languages 
+- Machine Translation
 - Social Biases in NLP 
 - Ethics and Accessibility
 
