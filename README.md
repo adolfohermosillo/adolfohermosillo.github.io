@@ -9,11 +9,11 @@ I am a fourth year undergraduate student at the University of Texas at Austin (s
 
 ## Research 
 My focal areas include: 
-- Lexical semantics
+- Lexical Semantics
 - Regional Variation
 - Contact Linguistics
 - Language and Society
-- Low-resource languages 
+- Low Resource Languages 
 - Machine Translation
 - Social Biases in NLP 
 - Ethics and Accessibility
