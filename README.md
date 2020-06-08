@@ -1,7 +1,7 @@
 
 # J. Adolfo Hermosillo 
 ## About me
-I am a fourth year undergraduate student at the University of Texas at Austin (soon at Stanford Linguistics). I am majoring in Linguistics with a concentration in computational linguistics and completing a certificate in scientific computation & data science and another in elements of computing. I am also a research assistant in [the Bilingual Annotation Tasks Force (BATs)](https://sites.utexas.edu/bats/) research grop. 
+I recently graduated at the University of Texas at Austin with a bachelor's of arts in Linguistics with a concentration in computational linguistics and a certificate in scientific computation & data science, soon at Stanford Linguistics.
 
 ## Current Projects 
 - Nahuatl-to-Spanish Neural Machine Translation
