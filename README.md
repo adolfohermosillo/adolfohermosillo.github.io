@@ -1,5 +1,7 @@
 
 # J. Adolfo Hermosillo 
+jadolfoh@stanford.edu
+
 ## About me
 I recently graduated at the University of Texas at Austin with a bachelor's of arts in Linguistics with a concentration in computational linguistics and a certificate in scientific computation & data science, soon at Stanford Linguistics.
 
@@ -26,3 +28,4 @@ I am broadly interested in multilingualism, psycholinguistics, sociolinguistics,
 
 ## Contact me!
 [Facebook](https://www.facebook.com/jesus.hermosillorodriguez) | [Instagram](http://instagram.com/hermosillo_17) | [Twitter](https://twitter.com/hermosillo_17)
+
