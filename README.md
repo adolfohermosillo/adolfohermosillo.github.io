@@ -5,18 +5,9 @@ I recently graduated at the University of Texas at Austin with a bachelor's of a
 
 ## Current Projects 
 - Nahuatl-to-Spanish Neural Machine Translation
-- Detecting Gender Biases in Spanish Word Embeddings
 
 ## Research 
-My focal areas include: 
-- Lexical Semantics
-- Regional Variation
-- Contact Linguistics
-- Language and Society
-- Low Resource Languages 
-- Machine Translation
-- Social Biases in NLP 
-- Ethics and Accessibility
+I am broadly interested in multilingualism, psycholinguistics, sociolinguistics, raciolinguistics, computational social science, natural language processing, and its applications to health, immigration, and education inequities. 
 
 
 ## Selected Talks
