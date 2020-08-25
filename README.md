@@ -27,5 +27,5 @@ I am broadly interested in multilingualism, psycholinguistics, sociolinguistics,
 
 
 ## Contact me!
-[Facebook](https://www.facebook.com/jesus.hermosillorodriguez) | [Instagram](http://instagram.com/hermosillo_17) | [Twitter](https://twitter.com/hermosillo_17)
+[Facebook](https://www.facebook.com/jesus.hermosillorodriguez) | [Instagram](http://instagram.com/hermosillo_17) | [Twitter](https://twitter.com/jadolfohe)
 
