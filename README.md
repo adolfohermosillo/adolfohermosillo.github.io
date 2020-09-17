@@ -3,13 +3,10 @@
 jadolfoh@stanford.edu
 
 ## About me
-I recently graduated at the University of Texas at Austin with a bachelor's of arts in Linguistics with a concentration in computational linguistics and a certificate in scientific computation & data science, soon at Stanford Linguistics.
+I am a first year PhD student in the Stanford Department of Linguistics. I am broadly interested in psycholinguistics, sociolinguistics, natural language processing. 
 
 ## Current Projects 
 - Nahuatl-to-Spanish Neural Machine Translation
-
-## Research 
-I am broadly interested in multilingualism, psycholinguistics, sociolinguistics, raciolinguistics, computational social science, natural language processing, and its applications to health, immigration, and education inequities. 
 
 
 ## Selected Talks
@@ -21,11 +18,6 @@ I am broadly interested in multilingualism, psycholinguistics, sociolinguistics,
 ## Publications
 1. Hermosillo, J. A. (March, 2019). “Language and dialect contact among Hispanics in Houston, Texas: A Lexical Leveling.” _Mellon Mays Undergraduate Fellowship Research Journal_. 25-30. 
 
-## Media
-1.  [I was named undergraduate spotlight in the Department of Spanish and Portuguese!](https://liberalarts.utexas.edu/spanish/news/undergraduate-spotlight-jesus-adolfo-hermosillo) 
-2. [High School Senior me interviewed by Univision Houston](https://www.univision.com/local/houston-kxln/noticias/educacion/jesus-hermosillo-ejemplo-de-perseverancia-video)
-
-
-## Contact me!
-[Facebook](https://www.facebook.com/jesus.hermosillorodriguez) | [Instagram](http://instagram.com/hermosillo_17) | [Twitter](https://twitter.com/jadolfohe)
+## Twitter!
+[Twitter](https://twitter.com/jadolfohe)
 
