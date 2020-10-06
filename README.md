@@ -7,6 +7,7 @@ I am a first year PhD student in the Stanford Department of Linguistics. I am br
 
 ## Current Projects 
 - Nahuatl-to-Spanish Neural Machine Translation
+- Accented-Speech Recogntion using Convolutional Neural Networks
 
 
 ## Selected Talks
