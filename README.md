@@ -20,5 +20,5 @@ I am a first year PhD student in the Stanford Department of Linguistics. I am br
 1. Hermosillo, J. A. (March, 2019). “Language and dialect contact among Hispanics in Houston, Texas: A Lexical Leveling.” _Mellon Mays Undergraduate Fellowship Research Journal_. 25-30. 
 
 ## Let's connect!
-jadolfoh at stanford dot edu
-[Twitter](https://twitter.com/jadolfohe) 
+- Email: jadolfoh at stanford dot edu
+- [Twitter](https://twitter.com/jadolfohe) 
