@@ -7,8 +7,6 @@ I am a first year PhD student in the Stanford Department of Linguistics. I am br
 
 ## Current Projects 
 - Nahuatl-to-Spanish Neural Machine Translation
-- Accented-Speech Recogntion using Convolutional Neural Networks
-
 
 ## Selected Talks
 1. "The Role of Gender in Human Language Technologies: from Google Translate to Intelligent Agents." Mellon Mays Southeast Regional Undergraduate Conference, Rice University, 2019.
