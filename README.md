@@ -3,10 +3,7 @@
 
 
 ## About me
-I am a first year PhD student in the Stanford Department of Linguistics. I am broadly interested in psycholinguistics, sociolinguistics, natural language processing. 
-
-## Current Projects 
-- Nahuatl-to-Spanish Neural Machine Translation
+I am a first year PhD student in the Department of Linguistics at Stanford. I am broadly interested in psycholinguistics, semantics, pragmatics, and natural language processing. 
 
 ## Selected Talks
 1. "The Role of Gender in Human Language Technologies: from Google Translate to Intelligent Agents." Mellon Mays Southeast Regional Undergraduate Conference, Rice University, 2019.
