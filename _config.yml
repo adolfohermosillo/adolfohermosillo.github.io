@@ -7,10 +7,6 @@
 
 # Site settings
 title: J. Adolfo Hermosillo
-email: ahermosillo748l@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  I am a fourth year undergraduate student at the University of Texas at Austin majoring in Linguistics with a concentration in computational linguistics and completing a certificate in scientific computation & data science. I am also a research assistant in the Bilingual Annotation Tasks Force (BATs) research grop.
-
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://adolfohermosillo.github.io" # the base hostname & protocol for your site
