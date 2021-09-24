@@ -3,7 +3,7 @@
 
 
 ## About me
-I am a first year PhD student in the Department of Linguistics at Stanford. I am broadly interested in psycholinguistics, semantics, pragmatics, and natural language processing. 
+Hi! I am Adolfo, a second-year PhD student in the Department of Linguistics at Stanford advised by [Christopher Potts](https://web.stanford.edu/~cgpotts/). I am broadly interested in natural language processing, semantics, sociolinguistics and multilingualism. I use computational and experimental methods to answer questions about meaning and variation. I am a member of [The Stanford NLP Group](https://nlp.stanford.edu/) and [ALPS](https://alpslab.stanford.edu/). 
 
 
 ## Publications
