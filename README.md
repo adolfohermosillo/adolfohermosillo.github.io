@@ -8,8 +8,9 @@ I am broadly interested in natural language processing, lexical semantics, pragm
 
 
 
-## Publications
-1. Hermosillo, J. A. (March, 2019). “Language and dialect contact among Hispanics in Houston, Texas: A Lexical Leveling.” _Mellon Mays Undergraduate Fellowship Research Journal_. 25-30. 
+## Papers
+1. **Hermosillo, J. A.** (March, 2019). “Language and dialect contact among Hispanics in Houston, Texas: A Lexical Leveling.” _Mellon Mays Undergraduate Fellowship Research Journal_. 25-30.
+2. Kreiss, E., Srinivasan, K., Piccardi, T., **Hermosillo, J. A.**, Bennett, C., Bernstein, M. S., Morris, M. R., and Potts, C. May 2023. Characterizing image accessibility on Wikipedia across languages. Wiki Workshop 2023.
 
 ## Let's connect!
 - Email: jadolfoh at stanford dot edu
