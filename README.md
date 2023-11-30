@@ -3,7 +3,7 @@
 
 
 ## About me
-Hi! I am Adolfo, a fourth-year PhD student in the Department of Linguistics at Stanford advised by [Christopher Potts](https://web.stanford.edu/~cgpotts/) and I am affiliated with [The Stanford NLP Group](https://nlp.stanford.edu/), Contact Variation and Change Lab, and [ALPS](https://alpslab.stanford.edu/), I am broadly interested in computational linguistics, lexical semantics, pragmatics, sociolinguistics, and their multiple intersections. My work is interdisciplinary and relies on computational and data-driven methodologies to inform theories of variation.  
+Hi! I am Adolfo, a fourth-year PhD student in the Department of Linguistics at Stanford advised by [Christopher Potts](https://web.stanford.edu/~cgpotts/) and I am affiliated with [The Stanford NLP Group](https://nlp.stanford.edu/), Contact Variation and Change Lab, and [ALPS](https://alpslab.stanford.edu/). I am broadly interested in computational linguistics, lexical semantics, pragmatics, sociolinguistics, and their multiple intersections. My work is interdisciplinary and relies on computational and data-driven methodologies to inform theories of variation.  
 
 
 ## Papers
