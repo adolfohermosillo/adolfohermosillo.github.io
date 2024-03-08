@@ -8,7 +8,6 @@ Hi! I am Adolfo, a fourth-year PhD student in the Department of Linguistics at S
 
 ## Presentations
 1. **Hermosillo, J. A.** (October, 2023). “Toward a Sociopragmatics of Copula + Adjective Constructions in Spanish.” _Hispanic Linguistics Symposium, Provo, UT.
-1. **Hermosillo, J. A.** & Fernandez-Lizarrag, E. (May, 2024). “Toward a Sociopragmatics of Copula + Adjective Constructions in Spanish.” _Linguistic Symposium on Romance Languages_, Provo, UT.
 
 
 ## Papers
