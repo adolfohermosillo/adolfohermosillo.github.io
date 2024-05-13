@@ -7,7 +7,7 @@ Hi! I am Adolfo, a fourth-year PhD student in the Department of Linguistics at S
 
 
 ## Presentations
-1. **Hermosillo, J. A.** & Fernandez-Lizarraga, E. F. (May, 2024). “Constructing Corpora for Interactional Sociopragmatic Research.” _Linguistic Symposium on Romance Languages_, Provo, UT. [Slides](https://drive.google.com/file/d/1PwKIfpMDROqyrdXlbtSwr-nMtWcH-g3Z/view?usp=sharing)
+1. **Hermosillo, J. A.** & Fernandez-Lizarraga, E. F. (May, 2024). “Constructing Corpora for Interactional Sociopragmatics Research.” _Linguistic Symposium on Romance Languages_, Provo, UT.  
 2. **Hermosillo, J. A.** (October, 2023). “Toward a Sociopragmatics of Copula + Adjective Constructions in Spanish.” _Hispanic Linguistics Symposium_, Provo, UT.
 
 
