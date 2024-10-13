@@ -18,4 +18,4 @@ Hi! I am Adolfo, a fifth-year PhD student in the Department of Linguistics at St
 
 ## Let's connect!
 - Email: jadolfoh at stanford dot edu
-- [Twitter](https://twitter.com/jadolfohe) 
+- [X](https://twitter.com/jadolfohe) 
