@@ -3,8 +3,11 @@
 
 
 ## About me
-Hi! I am Adolfo, a fifth-year PhD student in the Department of Linguistics at Stanford advised by [Christopher Potts](https://web.stanford.edu/~cgpotts/) and I am affiliated with [The Stanford NLP Group](https://nlp.stanford.edu/), Contact Variation and Change Lab, and [ALPS](https://alpslab.stanford.edu/). I am broadly interested in sociolinguistics, lexical semantics, pragmatics, and computational linguistics. My work relies on computational and data-driven methodologies to inform theories of language variation and change.  
+Hi! I am Adolfo, a fifth-year PhD student in the Department of Linguistics at Stanford advised by [Christopher Potts](https://web.stanford.edu/~cgpotts/) and I am affiliated with [The Stanford NLP Group](https://nlp.stanford.edu/), Contact Variation and Change Lab. I am broadly interested in sociolinguistics, lexical semantics, pragmatics, and computational linguistics. I use computational and data-driven methodologies to study language variation and change at the level of semantics and pragmatics.  
 
+## News!
+- Joint work with Jonathan WuWong, [Yin Lin Tin](https://yinlintan.github.io/), and [Irene Yi](https://irenegreenbean.github.io/ireneyi/mainpage.html) awared first place for best [student abstract](https://www.lsadc.org/student_abstract_award) at LSA 2025!
+- Attending New Ways of Analyzing Variation 52 in Miami in November.
 
 ## Presentations
 1. **Hermosillo, J. A.** (October, 2024). "Different ways to intensify: (Extreme degree) adjectives of taste in Mexican Spanish.” New Ways of Analyzing Variation, Miami, FL.
