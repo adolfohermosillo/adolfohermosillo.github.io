@@ -7,7 +7,6 @@ Hi! I am Adolfo, a fifth-year PhD student in the Department of Linguistics at St
 
 ## News!
 - Joint work with Jonathan WuWong, [Yin Lin Tan](https://yinlintan.github.io/), and [Irene Yi](https://irenegreenbean.github.io/ireneyi/mainpage.html) awared first place for best [student abstract](https://www.lsadc.org/2025_award_winners) at LSA 2025!
-- Attending New Ways of Analyzing Variation 52 in Miami in November.
 
 ## Presentations
 1. **Hermosillo, J. A.** (October, 2024). "Different ways to intensify: (Extreme degree) adjectives of taste in Mexican Spanish.” New Ways of Analyzing Variation, Miami, FL.
