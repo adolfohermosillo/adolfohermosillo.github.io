@@ -5,8 +5,6 @@
 ## About me
 Hi! I am Adolfo, a fifth-year PhD student in the Department of Linguistics at Stanford advised by [Christopher Potts](https://web.stanford.edu/~cgpotts/) and I am affiliated with [The Stanford NLP Group](https://nlp.stanford.edu/), Contact Variation and Change Lab. I am broadly interested in sociolinguistics, lexical semantics, pragmatics, and computational linguistics. I use computational and data-driven methodologies to study language variation and change at the level of semantics and pragmatics.  
 
-## News!
-- Joint work with Jonathan WuWong, [Yin Lin Tan](https://yinlintan.github.io/), and [Irene Yi](https://irenegreenbean.github.io/ireneyi/mainpage.html) awared first place for best [student abstract](https://www.lsadc.org/2025_award_winners) at LSA 2025!
 
 ## Presentations
 1. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., & Yi, I.(January, 2025) “Intensifier Variation and Change in Salinas, California.” Linguistic Society of America Annual Meeting, Philadelphia, PA. 
