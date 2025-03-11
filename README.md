@@ -7,11 +7,12 @@ Hi! I am Adolfo, a fifth-year PhD student in the Department of Linguistics at St
 
 
 ## Presentations
-1. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., & Yi, I.(January, 2025) “Intensifier Variation and Change in Salinas, California.” Linguistic Society of America Annual Meeting, Philadelphia, PA. 
-2. **Hermosillo, J. A.** (October, 2024) "Different ways to intensify: (Extreme degree) adjectives of taste in Mexican Spanish.” New Ways of Analyzing Variation, Miami, FL.
-3. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., Yi, I., & Kapur, R. (October, 2024) “A _very_ subjective but _really_ interesting phenomenon: Intensifier Variation and Change in Salinas, California.” New Ways of Analyzing Variation, Miami, FL. 
-4. **Hermosillo, J. A.** & Fernandez-Lizarraga, E. F. (May, 2024). “Constructing Corpora for Interactional Sociopragmatics Research.” _Linguistic Symposium on Romance Languages_, Provo, UT. ([Slides](https://drive.google.com/file/d/1i5RvPKS8EtfyykoxdFSvWE_aCEzYYEq4/view?usp=drive_link))
-5. **Hermosillo, J. A.** (October, 2023). “Toward a Sociopragmatics of Copula + Adjective Constructions in Spanish.” _Hispanic Linguistics Symposium_, Provo, UT.
+1. Samamé-Rispa, A. & **Hermosillo, J. A.** (Upcoming!) ""A Comparative Socio-semantic Analysis of -ísimx in Mexican and Peruvian Spanish" The 28th Annual Ohio State University Congress on Hispanic and Lusophone Linguistics (OSUCHiLL), Columbus, OH.
+2.  **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., & Yi, I.(January, 2025) “Intensifier Variation and Change in Salinas, California.” Linguistic Society of America Annual Meeting, Philadelphia, PA. 
+3. **Hermosillo, J. A.** (October, 2024) "Different ways to intensify: (Extreme degree) adjectives of taste in Mexican Spanish.” New Ways of Analyzing Variation, Miami, FL.
+4. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., Yi, I., & Kapur, R. (October, 2024) “A _very_ subjective but _really_ interesting phenomenon: Intensifier Variation and Change in Salinas, California.” New Ways of Analyzing Variation, Miami, FL. 
+5. **Hermosillo, J. A.** & Fernandez-Lizarraga, E. F. (May, 2024). “Constructing Corpora for Interactional Sociopragmatics Research.” _Linguistic Symposium on Romance Languages_, Provo, UT. ([Slides](https://drive.google.com/file/d/1i5RvPKS8EtfyykoxdFSvWE_aCEzYYEq4/view?usp=drive_link))
+6. **Hermosillo, J. A.** (October, 2023). “Toward a Sociopragmatics of Copula + Adjective Constructions in Spanish.” _Hispanic Linguistics Symposium_, Provo, UT.
 
 
 
