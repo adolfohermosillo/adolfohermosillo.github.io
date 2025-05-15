@@ -14,11 +14,16 @@ Hi! I am Adolfo, a fifth-year PhD student in the Department of Linguistics at St
 5. **Hermosillo, J. A.** & Fernandez-Lizarraga, E. F. (May, 2024). “Constructing Corpora for Interactional Sociopragmatics Research.” _Linguistic Symposium on Romance Languages_, Provo, UT. ([Slides](https://drive.google.com/file/d/1i5RvPKS8EtfyykoxdFSvWE_aCEzYYEq4/view?usp=drive_link))
 6. **Hermosillo, J. A.** (October, 2023). “Toward a Sociopragmatics of Copula + Adjective Constructions in Spanish.” _Hispanic Linguistics Symposium_, Provo, UT.
 
+ 
+
+## Conference Proceedings
+1. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., Yi, I., & Kapur, R. (to appear) “A _very_ subjective but _really_ interesting phenomenon: Intensifier Variation and Change in Salinas, California.” U. Penn Working Papers in Linguistics, 31.2 (available upon request)
+2.  Kreiss, E., Srinivasan, K., Piccardi, T., **Hermosillo, J. A.**, Bennett, C., Bernstein, M. S., Morris, M. R., and Potts, C. (May, 2023) Characterizing image accessibility on Wikipedia across languages. Wiki Workshop 2023.
 
 
-## Papers
+## Other papers
 1. Hermosillo, J. A. Dialect and Language Contact among Hispanics in Houston, Texas: A Lexical Leveling. _The Mellon Mays Undergraduate Fellowship Journal_ 2018, 25. 
-3. Kreiss, E., Srinivasan, K., Piccardi, T., **Hermosillo, J. A.**, Bennett, C., Bernstein, M. S., Morris, M. R., and Potts, C. (May, 2023) Characterizing image accessibility on Wikipedia across languages. Wiki Workshop 2023.
+
 
 ## Let's connect!
 - Email: jadolfoh at stanford dot edu
