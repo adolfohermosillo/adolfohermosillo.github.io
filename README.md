@@ -17,7 +17,7 @@ Hi! I am Adolfo, a fifth-year PhD student in the Department of Linguistics at St
  
 
 ## Conference Proceedings
-1. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., Yi, I., & Kapur, R. (to appear) “A _very_ subjective but _really_ interesting phenomenon: Intensifier Variation and Change in Salinas, California.” U. Penn Working Papers in Linguistics, 31.2 (available upon request)
+1. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., Yi, I., & Kapur, R. (to appear) “A _very_ subjective but _really_ interesting phenomenon: Intensifier Variation and Change in Salinas, California.” U. Penn Working Papers in Linguistics, 31.2. (available upon request)
 2.  Kreiss, E., Srinivasan, K., Piccardi, T., **Hermosillo, J. A.**, Bennett, C., Bernstein, M. S., Morris, M. R., and Potts, C. (May, 2023) Characterizing image accessibility on Wikipedia across languages. Wiki Workshop 2023.
 
 
