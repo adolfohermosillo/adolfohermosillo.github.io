@@ -3,7 +3,7 @@
 
 
 ## About me
-Hi! I am Adolfo, a fifth-year PhD student in the Department of Linguistics at Stanford advised by [Christopher Potts](https://web.stanford.edu/~cgpotts/) and I am affiliated with [The Stanford NLP Group](https://nlp.stanford.edu/), [Interactional Sociophonetics Lab](https://stanford.edu/~podesva/lab.html), and Contact Variation and Change Lab. I am broadly interested in sociolinguistics, lexical semantics, pragmatics, and computational linguistics. I use computational and data-driven methodologies to study language variation and change at the level of semantics and pragmatics.  
+Hi! I am Adolfo, a sixth-year PhD student in the Department of Linguistics at Stanford advised by [Christopher Potts](https://web.stanford.edu/~cgpotts/) and I am affiliated with [The Stanford NLP Group](https://nlp.stanford.edu/), [Interactional Sociophonetics Lab](https://stanford.edu/~podesva/lab.html), and Contact Variation and Change Lab. I am broadly interested in sociolinguistics, lexical semantics, pragmatics, and computational linguistics. 
 
 
 ## Latest Conference Presentations
@@ -13,7 +13,6 @@ Hi! I am Adolfo, a fifth-year PhD student in the Department of Linguistics at St
 4. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., Yi, I., & Kapur, R. (October, 2024) “A _very_ subjective but _really_ interesting phenomenon: Intensifier Variation and Change in Salinas, California.” New Ways of Analyzing Variation, Miami, FL. 
 5. **Hermosillo, J. A.** & Fernandez-Lizarraga, E. F. (May, 2024). “Constructing Corpora for Interactional Sociopragmatics Research.” _Linguistic Symposium on Romance Languages_, Provo, UT. ([Slides](https://drive.google.com/file/d/1i5RvPKS8EtfyykoxdFSvWE_aCEzYYEq4/view?usp=drive_link))
 
- 
 
 ## Conference Proceedings
 1. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., Yi, I., & Kapur, R. (to appear) “A _very_ subjective but _really_ interesting phenomenon: Intensifier Variation and Change in Salinas, California.” U. Penn Working Papers in Linguistics, 31.2. (available upon request)
