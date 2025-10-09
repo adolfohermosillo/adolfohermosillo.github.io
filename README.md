@@ -3,7 +3,7 @@
 
 
 ## About me
-Hi! I am Adolfo, a sixth-year PhD student in the Department of Linguistics at Stanford advised by [Christopher Potts](https://web.stanford.edu/~cgpotts/) and I am affiliated with [The Stanford NLP Group](https://nlp.stanford.edu/), [Interactional Sociophonetics Lab](https://stanford.edu/~podesva/lab.html), and Contact Variation and Change Lab. I am broadly interested in sociolinguistics, lexical semantics, pragmatics, and computational linguistics. 
+Hi! I am Adolfo, a sixth-year PhD student in the Department of Linguistics at Stanford co-advised by [Christopher Potts](https://web.stanford.edu/~cgpotts/) and [Beth Levin](https://web.stanford.edu/~bclevin/). I am affiliated with [The Stanford NLP Group](https://nlp.stanford.edu/), [Interactional Sociophonetics Lab](https://stanford.edu/~podesva/lab.html), and Contact Variation and Change Lab. I am broadly interested in sociolinguistics, lexical semantics, pragmatics, and computational linguistics. 
 
 
 ## Latest Conference Presentations
