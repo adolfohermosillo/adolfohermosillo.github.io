@@ -7,11 +7,12 @@ Hi! I am Adolfo, a sixth-year PhD student in the Department of Linguistics at St
 
 
 ## Latest Conference Presentations
-1. Samamé-Rispa, A. & **Hermosillo, J. A.** (March, 2025) "A Comparative Socio-semantic Analysis of -_ísimx_ in Mexican and Peruvian Spanish" The 28th Annual Ohio State University Congress on Hispanic and Lusophone Linguistics (OSUCHiLL), Columbus, OH.
-2. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., & Yi, I.(January, 2025) “Intensifier Variation and Change in Salinas, California.” Linguistic Society of America Annual Meeting, Philadelphia, PA. 
-3. **Hermosillo, J. A.** (October, 2024) "Different ways to intensify: (Extreme degree) adjectives of taste in Mexican Spanish.” New Ways of Analyzing Variation, Miami, FL.
-4. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., Yi, I., & Kapur, R. (October, 2024) “A _very_ subjective but _really_ interesting phenomenon: Intensifier Variation and Change in Salinas, California.” New Ways of Analyzing Variation, Miami, FL. 
-5. **Hermosillo, J. A.** & Fernandez-Lizarraga, E. F. (May, 2024). “Constructing Corpora for Interactional Sociopragmatics Research.” _Linguistic Symposium on Romance Languages_, Provo, UT. ([Slides](https://drive.google.com/file/d/1i5RvPKS8EtfyykoxdFSvWE_aCEzYYEq4/view?usp=drive_link))
+1. **Hermosillo, J. A.** (November, 2025) "The Making of a Chef: Pragmatics and the Social Meanings of _ser_ and _estar_" Hispanic  Linguistics Symposium (OSUCHiLL), Tucson, AZ.
+2.  Samamé-Rispa, A. & **Hermosillo, J. A.** (March, 2025) "A Comparative Socio-semantic Analysis of -_ísimx_ in Mexican and Peruvian Spanish" The 28th Annual Ohio State University Congress on Hispanic and Lusophone Linguistics (OSUCHiLL), Columbus, OH.
+3. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., & Yi, I.(January, 2025) “Intensifier Variation and Change in Salinas, California.” Linguistic Society of America Annual Meeting, Philadelphia, PA. 
+4. **Hermosillo, J. A.** (October, 2024) "Different ways to intensify: (Extreme degree) adjectives of taste in Mexican Spanish.” New Ways of Analyzing Variation, Miami, FL.
+5. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., Yi, I., & Kapur, R. (October, 2024) “A _very_ subjective but _really_ interesting phenomenon: Intensifier Variation and Change in Salinas, California.” New Ways of Analyzing Variation, Miami, FL. 
+6. **Hermosillo, J. A.** & Fernandez-Lizarraga, E. F. (May, 2024). “Constructing Corpora for Interactional Sociopragmatics Research.” _Linguistic Symposium on Romance Languages_, Provo, UT. ([Slides](https://drive.google.com/file/d/1i5RvPKS8EtfyykoxdFSvWE_aCEzYYEq4/view?usp=drive_link))
 
 
 ## Conference Proceedings
