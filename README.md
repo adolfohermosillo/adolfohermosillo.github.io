@@ -7,7 +7,7 @@ Hi! I am Adolfo, a sixth-year PhD student in the Department of Linguistics at St
 
 
 ## Latest Conference Presentations
-1. **Hermosillo, J. A.** (November, 2025) "The Making of a Chef: Pragmatics and the Social Meanings of _ser_ and _estar_" Hispanic  Linguistics Symposium (OSUCHiLL), Tucson, AZ.
+1. **Hermosillo, J. A.** (November, 2025) "The Making of a Chef: Pragmatics and the Social Meanings of _ser_ and _estar_" Hispanic  Linguistics Symposium, Tucson, AZ.
 2.  Samamé-Rispa, A. & **Hermosillo, J. A.** (March, 2025) "A Comparative Socio-semantic Analysis of -_ísimx_ in Mexican and Peruvian Spanish" The 28th Annual Ohio State University Congress on Hispanic and Lusophone Linguistics (OSUCHiLL), Columbus, OH.
 3. **Hermosillo, J. A.** , WuWong, J, Tan, Y. L., & Yi, I.(January, 2025) “Intensifier Variation and Change in Salinas, California.” Linguistic Society of America Annual Meeting, Philadelphia, PA. 
 4. **Hermosillo, J. A.** (October, 2024) "Different ways to intensify: (Extreme degree) adjectives of taste in Mexican Spanish.” New Ways of Analyzing Variation, Miami, FL.
